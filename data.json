@@ -27,7 +27,7 @@
             "foto": "images/produk/product_kopi_susu.jpg",
             "nama": "Kopsus Robusta",
             "size": "100 Gram",
-            "harga": "500.000",
+            "harga": "80.000",
             "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
         },
         {
@@ -36,6 +36,59 @@
             "size": "150 Gram",
             "harga": "150.000",
             "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "nama": "biji kopi robusta",
+            "size": "1000 gr",
+            "harga": "750.000",
+            "link": "https://www.google.com/search?sca_esv=76c1f0b0268cba61&sca_upv=1&q=biji+kopi+robusta&source=lnms&uds=ADvngMiUaSzX4F1l_-9FHWu6t-BXrBICBYgMgho1nLd8CWrqFcB4AWqF5ZgU1ty1tUoBAoBD6e1FtAgRJz5nZ_W51WyOkUl0EnAgjeSCBtXAA6pazVOhlr1MJZ4c3I-hLOzYR5uwQMDa2Otteq6eHQ36_9hkQsd662Z6SVgqQJpPZ5nDCnyUE6rzS9Ow_BMRaBorEcNLzBbSTizRW-EM5k98kvUU1OugxZ93PSl4ZTGz-hAy9LAWP5-q7jrsv9IknxXbwdtdPQoYDd9jMYQjKTZshabg73wAXhwcOr9YEsMTMBxUpUCenvgC7wWP6s96RE2_JqrMoaXj&sa=X&ved=2ahUKEwj1wpb91ISGAxX5ZmwGHQ1JDeMQ0pQJegQIDhAB&biw=1366&bih=617&dpr=1",
+            "foto": "https://omahkopi.id/wp-content/uploads/2020/03/greenbean-robusta-telemung-1000gr.jpg"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://img.freepik.com/free-photo/top-view-set-ice-cream-cones-with-chocolate_23-2148425392.jpg",
+            "nama": "Ice Cream",
+            "size": "100 Gram",
+            "harga": "10.000",
+            "link": "https://www.google.com/search?q=ice+cream+cone&tbm=shop"
+        },
+        {
+            "nama": "es durian",
+            "size": "100 ml",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=es+durian&oq=es+dur&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTINCAIQLhivARjHARiABDINCAMQLhivARjHARiABDIHCAQQABiABDINCAUQLhivARjHARiABDIQCAYQLhivARjHARiABBiOBTINCAcQLhivARjHARiABDIHCAgQABiABDIKCAkQABjJAxiABNIBCDU5NzFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8",
+            "foto": "https://cdn0-production-images-kly.akamaized.net/NIjICY6iJCDedLYiC3pcKvdeGm8=/1x109:1000x672/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4424342/original/077458900_1683813630-shutterstock_2286947131.jpg"
+        },
+        {
+            "nama": "Es Cendol Mas Jhon",
+            "size": "100 ml",
+            "harga": "10.000",
+            "link": "https://www.google.com/search?q=es+cendol&sca_esv=76c1f0b0268cba61&sca_upv=1&biw=1366&bih=617&ei=zeo-Zsm8KOiw4-EP_KuWCA&oq=es+cen&gs_lp=Egxnd3Mtd2l6LXNlcnAiBmVzIGNlbioCCAAyCBAAGIAEGLEDMggQABiABBjJAzILEAAYgAQYkgMYigUyBRAAGIAEMgsQLhiABBjHARivATILEC4YgAQYxwEYrwEyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESLozUPQJWPQncAJ4AZABAJgBkwGgAc4GqgEDMS42uAEByAEA-AEBmAIJoALNB6gCFMICExAAGIAEGEMYtAIYigUY6gLYAQHCAh0QABiABBi0AhjUAxjlAhi3AxiKBRjqAhiKA9gBAcICFhAAGAMYtAIY5QIY6gIYjAMYjwHYAQLCAhYQLhgDGLQCGOUCGOoCGIwDGI8B2AECwgIREC4YgAQYkQIYsQMYgwEYigXCAgsQLhiABBiRAhiKBcICDhAuGIAEGLEDGIMBGIoFwgIIEC4YgAQYsQPCAgsQLhiABBixAxiDAcICCxAAGIAEGLEDGIMBwgIOEAAYgAQYsQMYgwEYigXCAiwQLhiABBiRAhixAxiDARiKBRiXBRjcBBjeBBjgBBj0AxjxAxj1Axj2A9gBA8ICFBAuGIAEGJECGMcBGIoFGI4FGK8BwgILEC4YgAQY0QMYxwHCAgUQLhiABMICIBAuGIAEGJECGLEDGIMBGIoFGJcFGNwEGN4EGN8E2AEDwgILEAAYgAQYkQIYigXCAg4QLhiABBixAxjRAxjHAcICCxAAGIAEGLEDGMkDwgIHEAAYgAQYCpgDGLoGBAgBGAe6BgYIAhABGAq6BgYIAxABGBSSBwMyLjegB6Fj&sclient=gws-wiz-serp",
+            "foto": "https://www.sasa.co.id/medias/page_medias/es_cendol_nangka.jpg"
+        }
+    ],
+    "snack": [
+        {
+            "nama": "Combro rebus",
+            "size": "6 pcs",
+            "harga": "10.000",
+            "link": "https://www.google.com/search?q=combro&sca_esv=76c1f0b0268cba61&sca_upv=1&biw=1366&bih=617&ei=Xuc-Zp-ZAfbWseMPw_e-mAs&ved=0ahUKEwifwImv1YSGAxV2a2wGHcO7D7MQ4dUDCBA&uact=5&oq=combro&gs_lp=Egxnd3Mtd2l6LXNlcnAiBmNvbWJybzIIEAAYgAQYsQMyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDILEC4YgAQYxwEYrwFIskdQtghY5jlwAngBkAEDmAHlAaABng6qAQYxLjEyLjG4AQPIAQD4AQGYAgmgAtIIqAIUwgIKEAAYsAMY1gQYR8ICDRAAGIAEGLADGEMYigXCAg4QABiwAxjkAhjWBNgBAcICExAuGIAEGLADGEMYyAMYigXYAQLCAgoQLhiABBhDGIoFwgIGEAAYFhgewgIZEC4YgAQYQxiKBRiXBRjcBBjeBBjfBNgBA8ICHRAuGIAEGLQCGNQDGOUCGLcDGIoFGOoCGIoD2AEEwgIdEAAYgAQYtAIY1AMY5QIYtwMYigUY6gIYigPYAQTCAhYQABgDGLQCGOUCGOoCGIwDGI8B2AEFwgIWEC4YAxi0AhjlAhjqAhiMAxiPAdgBBcICCxAAGIAEGJECGIoFwgILEC4YgAQYkQIYigXCAgoQABiABBhDGIoFwgIREC4YgAQYsQMY0QMYgwEYxwHCAgsQABiABBixAxiDAcICDhAAGIAEGLEDGIMBGIoFwgIOEC4YgAQYsQMYgwEYigXCAg4QABiABBiRAhixAxiKBcICCxAuGIAEGLEDGIMBwgIHEC4YgAQYCpgDGogGAZAGEroGBggBEAEYCboGBggCEAEYCLoGBggDEAEYFLoGBAgEGAe6BgYIBRABGAqSBwUyLjYuMaAH5NUB&sclient=gws-wiz-serp",
+            "foto": "https://asset.kompas.com/crops/ZaXl-WY6FJQiCiigQzDFsKpu4jw=/0x308:750x808/750x500/data/photo/2021/09/29/6153cf36b71e7.jpg"
+        },
+        {
+            "nama": "Singkong goreng",
+            "size": "5 pcs",
+            "harga": "12.000",
+            "link": "https://www.google.com/search?q=singkong+goreng&sca_esv=76c1f0b0268cba61&sca_upv=1&biw=1366&bih=617&ei=d-k-ZuzpCMCS4-EPqKGCEA&oq=singkok&gs_lp=Egxnd3Mtd2l6LXNlcnAiB3Npbmdrb2sqAggDMgoQABiABBixAxgKMgoQLhiABBixAxgKMgoQABiABBixAxgKMgoQABiABBixAxgKMgoQABiABBjJAxgKMgsQABiABBiSAxiKBTIHEAAYgAQYCjIHEAAYgAQYCjINEC4YgAQYxwEYChivATIHEAAYgAQYCkiK0gdQwZ4HWIC1B3ACeAGQAQCYAfYBoAHGB6oBBTIuNC4xuAEDyAEA-AEBmAILoAKjNagCCsICChAAGLADGNYEGEfCAg0QABiwAxjWBBhHGMkDwgIOEAAYgAQYsAMYkgMYigXCAg0QABiABBiwAxhDGIoFwgIWEAAYAxi0AhjlAhjqAhiMAxiPAdgBAcICFhAuGAMYtAIY5QIY6gIYjAMYjwHYAQHCAgsQABiABBiRAhiKBcICDhAAGIAEGLEDGIMBGIoFwgILEAAYgAQYsQMYgwHCAhEQLhiABBixAxjRAxiDARjHAcICCxAuGIAEGNEDGMcBwgIOEC4YgAQYsQMYgwEYigXCAgsQLhiABBiRAhiKBcICDhAuGIAEGJECGNQCGIoFwgIFEAAYgATCAhAQABiABBixAxiDARiKBRgKwgIIEAAYgAQYsQPCAhoQLhiABBiRAhiKBRiXBRjcBBjeBBjfBNgBAsICFBAuGIAEGJECGLEDGNEDGMcBGIoFwgIIEC4YgAQYsQPCAgUQLhiABMICIxAuGIAEGJECGLEDGNEDGMcBGIoFGJcFGNwEGN4EGOAE2AECwgIIEAAYgAQYyQPCAgsQLhiABBjHARivAcICGRAuGIAEGLEDGAoYlwUY3AQY3gQY3wTYAQKYAwyIBgGQBgq6BgQIARgKugYGCAIQARgUkgcJMy41LjEuOC0yoAfkbQ&sclient=gws-wiz-serp#vhid=HI1AdfHps5ofiM&vssid=l",
+            "foto": "https://cdn1-production-images-kly.akamaized.net/l4mzOZRw1rlBgmH9fXWXwhJXnWI=/996x0:3337x3120/500x667/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2895033/original/022115500_1566979102-2019-08-28.jpg"
+        },
+        {
+            "nama": "Na Ay Kar (Nasi Ayam Bakar)",
+            "size": "nasi+ayam+es teh manis+sambal",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=nasi+ayam+bakar&sca_esv=76c1f0b0268cba61&sca_upv=1&biw=1366&bih=617&ei=Aeo-ZqnLAsLF4-EPp6mp4AI&oq=nasi+aya&gs_lp=Egxnd3Mtd2l6LXNlcnAiCG5hc2kgYXlhKgIIAjIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyCxAAGIAEGLEDGIMBMgsQABiABBixAxiDATIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARIpTZQlwxYzR5wAXgBkAEAmAGwAaAB6AaqAQM1LjO4AQHIAQD4AQGYAgmgAsQHqAIUwgITEAAYgAQYQxi0AhiKBRjqAtgBAcICHRAAGIAEGLQCGNQDGOUCGLcDGIoFGOoCGIoD2AEBwgIWEAAYAxi0AhjlAhjqAhiMAxiPAdgBAsICFhAuGAMYtAIY5QIY6gIYjAMYjwHYAQLCAgoQABiABBhDGIoFwgIREC4YgAQYsQMY0QMYgwEYxwHCAgsQLhiABBixAxiDAcICDhAuGIAEGLEDGIMBGIoFwgIOEAAYgAQYsQMYgwEYigXCAgsQABiABBiRAhiKBcICCxAuGIAEGJECGIoFwgIFEC4YgATCAg4QABiABBiRAhixAxiKBcICDhAuGIAEGJECGLEDGIoFwgIIEAAYgAQYsQPCAggQLhiABBixA5gDGboGBAgBGAe6BgYIAhABGAqSBwM0LjWgB95x&sclient=gws-wiz-serp#vhid=XMZp40TYmt3qIM&vssid=l",
+            "foto": "https://img-global.cpcdn.com/recipes/7fa7fdc21d48af83/680x482cq70/nasi-ayam-bakar-foto-resep-utama.jpg"
         }
     ]
 }
